@@ -61,6 +61,7 @@ I made this wallpeper with EFF Logo, use it for your Avatar and for your photos 
 <a href="https://github.com/overy0u" target="_blank"><img src="https://avatars.githubusercontent.com/u/35597969?v=4" width="35" height="35"></a>
 <a href="https://github.com/belinho159" target="_blank"><img src="https://avatars.githubusercontent.com/u/55924689?v=4" width="35" height="35"></a>
 <a href="https://github.com/luxi124" target="_blank"><img src="https://avatars.githubusercontent.com/u/87795484?v=4" width="35" height="35"></a>
+<a href="https://github.com/WitchTokTheMusical" target="_blank"><img src="https://avatars.githubusercontent.com/u/88294847?v=4" width="35" height="35"></a>
 
 # Donation
 |Method|Address|
