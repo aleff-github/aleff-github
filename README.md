@@ -7,8 +7,8 @@ If you need support or private assistance contact me at the email [alessandrogre
 
 ---
 
-# TikTok Bot 🤖
-[![TikTok Bot](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=TikTok-Follow-Heart-Views-Bot&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot)</br>
+# TikTok Bot 🤖 (*Click Image*)
+[![TikTok Bot](https://cdn.sellix.io/cdn-cgi/image/w=250,h=250,quality=75,fit=cover/static/images/products/cc745f74a812c856c57d397688b0db8f11b9f2b1144d354cbc958d658153835f.png)](https://sellix.io/BotAndMore)</br>
 
 ---
 # [PRO] L.G.B.T.Q.I.A.+
