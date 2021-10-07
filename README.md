@@ -8,7 +8,7 @@ If you need support or private assistance contact me at the email [alessandrogre
 ---
 
 # TikTok Bot 🤖 (*Click Image*)
-[![TikTok Bot](https://cdn.sellix.io/cdn-cgi/image/w=250,h=250,quality=75,fit=cover/static/images/products/cc745f74a812c856c57d397688b0db8f11b9f2b1144d354cbc958d658153835f.png)](https://sellix.io/BotAndMore)</br>
+[![TikTok Bot](https://cdn.sellix.io/cdn-cgi/image/w=250,h=250,quality=75,fit=cover/static/images/products/cc745f74a812c856c57d397688b0db8f11b9f2b1144d354cbc958d658153835f.png)](https://sellix.io/product/615d80d4b4ef9)</br>
 
 ---
 # [PRO] L.G.B.T.Q.I.A.+
