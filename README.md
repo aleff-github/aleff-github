@@ -8,7 +8,7 @@ If you need support or private assistance contact me at the email [alessandrogre
 ---
 
 # Work-In-Progress... 🧅
-[![...](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=Repository-Name&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/)</br>
+[![...](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=Tropea-Project&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/Tropea-Project/)</br>
 
 ---
 # [PRO] L.G.B.T.Q.I.A.+
