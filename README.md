@@ -7,7 +7,7 @@ If you need support or private assistance contact me at the email [alessandrogre
 
 ---
 
-# Work-In-Progress... 🧅
+# Tropea-Project | Fine Tunneling For Tor Network 🧅 | Open-Source Project
 [![...](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=Tropea-Project&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/Tropea-Project/)</br>
 
 ---
