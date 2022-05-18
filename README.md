@@ -6,11 +6,6 @@ If you need support or private assistance contact me at the email [alessandrogre
 ![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
 
 ---
-
-# Tropea-Project | Fine Tuning For Tor Network 🧅 | Open-Source Project
-[![...](https://github-readme-stats.vercel.app/api/pin/?username=NoNameoN-A&repo=Tropea-Project&show_icons=true&theme=graywhite)](https://github.com/NoNameoN-A/Tropea-Project/)</br>
-
----
 # [PRO] L.G.B.T.Q.I.A.+
 In favor of **Lesbian**, **Gay**, **Bisexual**, **Transgender**, **Queer** or **Questioning**, **Intersex**, **Asexual** and any other form of recognition of one's sexual orientation, in favor of love in all its possible, imaginable and unimaginable forms.<br><br>
 ![L.G.B.T.Q.I.A.+](https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/L.G.B.T.Q.I.A.%2B.jpg)
