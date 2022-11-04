@@ -1,7 +1,13 @@
 # Assistance
 If you need support or private assistance contact me at the email [alessandrogreco@autistici.org](mailto:alessandrogreco@autistici.org)
 
-If you want you can use my [PGP Public Key](https://www.autistici.org/aleff/#pgp-key).
+|PGP|Data|
+|--|--|
+|**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7C79318CFE5C3E3E) or [my personal website](https://www.autistici.org/aleff/assets/docs/Pub-PGP-AlessandroGreco)|
+|**Uid**|Alessandro Greco ... <alessandrogreco@autistici.org>|
+|**Fingerprint**|E40A FED4 9B34 34FF 1BB5  BB67 7C79 318C FE5C 3E3E|
+|**RSA Bits**|rsa4096|
+|**Date**|2022-10-27|
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/)
 
