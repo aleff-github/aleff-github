@@ -1,5 +1,5 @@
 # Assistance
-If you need support or private assistance contact me at the email [alessandrogreco@autistici.org](mailto:alessandrogreco@autistici.org)
+If you need support or private assistance contact me at the email alessandrogreco[AT]autistic[DOT]org
 
 |PGP|Data|
 |--|--|
