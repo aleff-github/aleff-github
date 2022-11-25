@@ -4,7 +4,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 |PGP|Data|
 |--|--|
 |**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7C79318CFE5C3E3E) or [my personal website](https://www.autistici.org/aleff/assets/docs/Pub-PGP-AlessandroGreco)|
-|**Uid**|Alessandro Greco ... <alessandrogreco@autistici.org>|
+|**Uid**|Alessandro Greco ... <alessandrogreco[AT]autistic[DOT]org>|
 |**Fingerprint**|E40A FED4 9B34 34FF 1BB5  BB67 7C79 318C FE5C 3E3E|
 |**RSA Bits**|rsa4096|
 |**Date**|2022-10-27|
