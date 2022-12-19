@@ -50,19 +50,59 @@ To advance human rights and freedoms by creating and deploying free and open sou
 # Services Without Profiling
 |Service|Provider|
 |--|--|
+|**Servizi Web**||
 |LiveStreaming|[Autistici/Inventati](https://www.autistici.org/docs/stream-obs)|
 |Videoconference|[Autistici/Inventati](https://vc.autistici.org/)|
 |Videoconference|[Jitsi](https://meet.jit.si/)|
 |Textconference(matrix-based)|[Convene](https://letsconvene.im/)|
 |WebServer|[Autistici/Inventati](https://vc.autistici.org/)|
+|WebServer|[indivia.net](https://indivia.net/)|
+|WebServer|[Uichi](https://uichi.esiliati.org/manage)|
+|WebServer|[Free.de](https://www.free.de/)|
+|WebServer|[Riseup.net](http://riseup.net/)|
+|WebServer|[shelter](https://shelter.is/)|
 |Email|[Autistici/Inventati](https://vc.autistici.org/)|
+|Email|[indivia.net](https://indivia.net/)|
+|Email|[Free.de](https://www.free.de/)|
+|Email|[Resist.ca](http://resist.ca/)|
+|Email|[Riseup.net](http://riseup.net/)|
+|Email|[aktivix.org](http://aktivix.org/)|
+|Email(Grecia)|[Espiv](https://espiv.net/)|
+|Mailing list|[indivia.net](https://indivia.net/)|
+|Mailing list|[Free.de](https://www.free.de/)|
+|Mailing list|[Resist.ca](http://resist.ca/)|
+|Mailing list|[Riseup.net](http://riseup.net/)|
+|Mailing list|[aktivix.org](http://aktivix.org/)|
+|Mailing list|[Espiv](https://espiv.net/)|
+|VPN For iOS, Android|[Orbot](https://orbot.app/)
+|VPN|[Oziosi VCN](https://www.oziosi.org/vcn/)|
+|VPN|[aktivix.org](http://aktivix.org/)|
+|Files Share|[OnionShare](https://onionshare.org/)|
+|Files Share|[Zerbino](https://zerbino.esiliati.org/)|
+|File Hosting|[Nebbia](https://nebbia.esiliati.org/)|
+|DNS Dinamici|[indivia.net](https://indivia.net/)|
+|**Messaggistica**||
 |Messaging Service|[Signal](https://signal.org/download/)|
+|XMPP Account|[Oziosi](https://www.oziosi.org/jabber/)|
+|IRC Chat|[indivia.net](https://indivia.net/)|
+|IRC Chat|[Chat](https://irc.esiliati.org/)|
+|**App e Software**||
 |Browser For Windows, Linux and MacOS|[Tor](https://www.torproject.org/download/)|
 |Browser For iOS|[Onion Browser](https://onionbrowser.com/)|
-|Free VPN For iOS, Android|[Orbot](https://orbot.app/)
-|Files Share|[OnionShare](https://onionshare.org/)|
-|Blog|[NoBlogs](https://www.autistici.org/docs/blog/)|
+|**Altri Servizi**||
 |HelpDesk(Signal, PGP, Whatsapp & Telegram)|[CDR Link](https://digiresilience.org/solutions/link/)|
+|Pad Condiviso|[Pad](https://pad.esiliati.org/)|
+|Sambiare Testi|[Pastina](https://pastina.esiliati.org/)|
+|Scambiare Note Vocali|[Detto](https://detto.esiliati.org/)|
+|Telefonia|[Mumble](mumble.esiliati.org)|
+|Repository|[Repo](https://repo.esiliati.org/)|
+|Blog|[NoBlogs](https://www.autistici.org/docs/blog/)|
+|Blog(Grecia)|[Espiv](https://espiv.net/)|
+|Forum|[indivia.net](https://indivia.net/)|
+|Streaming Audio|[indivia.net](https://indivia.net/)|
+|Servizi Per Spazi Occupati|[squat!net](http://squat.net/)|
+|Server Indipendente Germania|[so36.net](https://so36.net/)|
+
 
 --- 
 # Storic Sponsors
