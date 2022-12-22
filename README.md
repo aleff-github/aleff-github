@@ -1,5 +1,5 @@
 # Assistance
-If you need support or private assistance contact me at the email alessandrogreco[AT]autistic[DOT]org
+If you need support or private assistance contact me at the email alessandrogreco[AT]duck[DOT]com or using my public PGP Key as you can see following...
 
 |PGP|Data|
 |--|--|
