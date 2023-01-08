@@ -13,7 +13,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 ## My Flipper Shits
 
-<img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" />
+<a href="https://github.com/aleff-github/my-flipper-shits/"><img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" onclick=""/></a>
 
 ## Storic Sponsors
 
