@@ -1,5 +1,7 @@
-# Assistance
+## Assistance
 If you need support or private assistance contact me at the email alessandrogreco[AT]duck[DOT]com or using my public PGP Key as you can see following...
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/) ![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
 
 |PGP|Data|
 |--|--|
@@ -9,103 +11,12 @@ If you need support or private assistance contact me at the email alessandrogrec
 |**RSA Bits**|rsa4096|
 |**Date**|2022-10-27|
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/)
+## My Flipper Shits
 
-![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
+<img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" />
 
----
+## Storic Sponsors
 
-# [PRO] L.G.B.T.Q.I.A.+
-In favor of **Lesbian**, **Gay**, **Bisexual**, **Transgender**, **Queer** or **Questioning**, **Intersex**, **Asexual** and any other form of recognition of one's sexual orientation, in favor of love in all its possible, imaginable and unimaginable forms.<br><br>
-![L.G.B.T.Q.I.A.+](https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/L.G.B.T.Q.I.A.%2B.jpg)
-
----
-
-# [PRO] EFF - Wallpaper
-I made this wallpeper with EFF Logo, use it for your Avatar and for your photos for support the initiative!<br><br>
-<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper.png" width="586" height="320"></a><br><br>
-<a href="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" target="_blank"><img src="https://github.com/NoNameoN-A/NoNameoN-A/blob/main/img/EFF%20wallpaper%20white.png" width="586" height="320"></a>
-
----
-
-# [PRO] Tor-Project 
-To advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding.
-<a href="https://torproject.org" target="_blank"><img src="https://github.com/aleff-github/aleff-github/blob/main/img/tor.png" width="100%" height="320"></a>
-
-- [Forum](https://forum.torproject.net/)
-- [Mastodon](https://mastodon.social/@torproject)
-- [Instagram](https://www.instagram.com/torproject)
-- [Linkedin](https://www.linkedin.com/company/tor-project)
-- [GitHub](https://github.com/torproject)
-- [Facebook](https://www.facebook.com/TorProject/)
-- [Twitter](https://twitter.com/torproject)
-- [YouTube](https://www.youtube.com/c/TorProjectInc)
-- [Reddit](https://www.reddit.com/r/TOR/)
-- [Onion Browser for iOS](https://onionbrowser.com/)
-- [Onion Browser for Windows, Linux and MacOS](https://www.torproject.org/download/)
-- [Orbot - Free VPN (Tor-based) for Android](https://orbot.app/)
-
----
-
-# Services Without Profiling
-|Service|Provider|
-|--|--|
-|**Servizi Web**||
-|LiveStreaming|[Autistici/Inventati](https://www.autistici.org/docs/stream-obs)|
-|Videoconference|[Autistici/Inventati](https://vc.autistici.org/)|
-|Videoconference|[Jitsi](https://meet.jit.si/)|
-|Textconference(matrix-based)|[Convene](https://letsconvene.im/)|
-|WebServer|[Autistici/Inventati](https://vc.autistici.org/)|
-|WebServer|[indivia.net](https://indivia.net/)|
-|WebServer|[Uichi](https://uichi.esiliati.org/manage)|
-|WebServer|[Free.de](https://www.free.de/)|
-|WebServer|[Riseup.net](http://riseup.net/)|
-|WebServer|[shelter](https://shelter.is/)|
-|Email|[Autistici/Inventati](https://vc.autistici.org/)|
-|Email|[indivia.net](https://indivia.net/)|
-|Email|[Free.de](https://www.free.de/)|
-|Email|[Resist.ca](http://resist.ca/)|
-|Email|[Riseup.net](http://riseup.net/)|
-|Email|[aktivix.org](http://aktivix.org/)|
-|Email(Grecia)|[Espiv](https://espiv.net/)|
-|Mailing list|[indivia.net](https://indivia.net/)|
-|Mailing list|[Free.de](https://www.free.de/)|
-|Mailing list|[Resist.ca](http://resist.ca/)|
-|Mailing list|[Riseup.net](http://riseup.net/)|
-|Mailing list|[aktivix.org](http://aktivix.org/)|
-|Mailing list|[Espiv](https://espiv.net/)|
-|VPN For iOS, Android|[Orbot](https://orbot.app/)
-|VPN|[Oziosi VCN](https://www.oziosi.org/vcn/)|
-|VPN|[aktivix.org](http://aktivix.org/)|
-|Files Share|[OnionShare](https://onionshare.org/)|
-|Files Share|[Zerbino](https://zerbino.esiliati.org/)|
-|File Hosting|[Nebbia](https://nebbia.esiliati.org/)|
-|DNS Dinamici|[indivia.net](https://indivia.net/)|
-|**Messaggistica**||
-|Messaging Service|[Signal](https://signal.org/download/)|
-|XMPP Account|[Oziosi](https://www.oziosi.org/jabber/)|
-|IRC Chat|[indivia.net](https://indivia.net/)|
-|IRC Chat|[Chat](https://irc.esiliati.org/)|
-|**App e Software**||
-|Browser For Windows, Linux and MacOS|[Tor](https://www.torproject.org/download/)|
-|Browser For iOS|[Onion Browser](https://onionbrowser.com/)|
-|**Altri Servizi**||
-|HelpDesk(Signal, PGP, Whatsapp & Telegram)|[CDR Link](https://digiresilience.org/solutions/link/)|
-|Pad Condiviso|[Pad](https://pad.esiliati.org/)|
-|Sambiare Testi|[Pastina](https://pastina.esiliati.org/)|
-|Scambiare Note Vocali|[Detto](https://detto.esiliati.org/)|
-|Telefonia|[Mumble](mumble.esiliati.org)|
-|Repository|[Repo](https://repo.esiliati.org/)|
-|Blog|[NoBlogs](https://www.autistici.org/docs/blog/)|
-|Blog(Grecia)|[Espiv](https://espiv.net/)|
-|Forum|[indivia.net](https://indivia.net/)|
-|Streaming Audio|[indivia.net](https://indivia.net/)|
-|Servizi Per Spazi Occupati|[squat!net](http://squat.net/)|
-|Server Indipendente Germania|[so36.net](https://so36.net/)|
-
-
---- 
-# Storic Sponsors
 <a href="https://github.com/Abdulaziz033" target="_blank"><img src="https://avatars.githubusercontent.com/u/89788313?v=4" width="85" height="85"></a></br>
 <a href="https://github.com/Apocalyps2001" target="_blank"><img src="https://avatars.githubusercontent.com/u/82934936?v=4" width="65" height="65"></a></br>
 <a href="https://github.com/1thoughtmedia" target="_blank"><img src="https://avatars.githubusercontent.com/u/83051283?v=4" width="50" height="50"></a>
@@ -138,7 +49,7 @@ To advance human rights and freedoms by creating and deploying free and open sou
 <a href="https://github.com/BJBGAMING" target="_blank"><img src="https://avatars.githubusercontent.com/u/90178894?v=4" width="35" height="35"></a>
 <a href="https://github.com/ariefbayuu" target="_blank"><img src="https://avatars.githubusercontent.com/u/88656010?v=4" width="35" height="35"></a>
 
-# Donation
+## Donation
 |Method|Address|
 |--|--|
 |**GitHub**|https://github.com/sponsors/aleff-github|
