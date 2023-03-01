@@ -13,7 +13,12 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 ## My Flipper Shits
 
-<a href="https://github.com/aleff-github/my-flipper-shits/"><img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" onclick=""/></a>
+<a href="https://github.com/aleff-github/my-flipper-shits/"><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif" width="150" onclick=""/></a>
+
+---
+
+<a href="https://hak5.org/search?type=article&q=Aleff"><img src="https://github.com/aleff-github/aleff-github/blob/main/img/hak5.png" width="150" onclick=""/></a>
+- [Send Signal Messages](https://hak5.org/blogs/payloads/send-signal-messages)
 
 ## Storic Sponsors
 
