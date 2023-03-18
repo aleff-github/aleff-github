@@ -19,6 +19,13 @@ If you need support or private assistance contact me at the email alessandrogrec
 
 <a href="https://hak5.org/search?type=article&q=Aleff"><img src="https://github.com/aleff-github/aleff-github/blob/main/img/hak5.png" width="150" onclick=""/></a>
 - [Send Signal Messages](https://hak5.org/blogs/payloads/send-signal-messages)
+- [Exfiltrate Linux Content With Dropbox](https://hak5.org/blogs/payloads/exfiltrate-linux-content-with-dropbox)
+- [Exfiltrate Linux Log Files](https://hak5.org/blogs/payloads/exfiltrate-linux-log-files)
+- [Change Network Configuration](https://hak5.org/blogs/payloads/change-network-configuration)
+- [Change MAC Address](https://hak5.org/blogs/payloads/change-mac-address)
+- [Exfiltrate Linux Network Configuration](https://hak5.org/blogs/payloads/exfiltrate-linux-network-configuration)
+- [Exfiltrate WiFi Passwords](https://hak5.org/blogs/payloads/exfiltrate-wifi-passwords)
+- [Exfiltrate Sudo Password By Phishing](https://hak5.org/blogs/payloads/exfiltrate-sudo-password-by-phishing)
 
 ## Storic Sponsors
 
