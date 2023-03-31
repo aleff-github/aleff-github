@@ -26,6 +26,7 @@ If you need support or private assistance contact me at the email alessandrogrec
 - [Exfiltrate Linux Network Configuration](https://hak5.org/blogs/payloads/exfiltrate-linux-network-configuration)
 - [Exfiltrate WiFi Passwords](https://hak5.org/blogs/payloads/exfiltrate-wifi-passwords)
 - [Exfiltrate Sudo Password By Phishing](https://hak5.org/blogs/payloads/exfiltrate-sudo-password-by-phishing)
+- [Exfiltrate Process Info](https://hak5.org/blogs/payloads/exfiltrate-process-info)
 
 ## Storic Sponsors
 
