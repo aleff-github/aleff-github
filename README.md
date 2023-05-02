@@ -5,11 +5,10 @@ If you need support or private assistance contact me at the email alessandro.gre
 
 |PGP|Data|
 |--|--|
-|**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7C79318CFE5C3E3E) or [my personal website](https://www.autistici.org/aleff/assets/docs/Pub-PGP-AlessandroGreco)|
-|**Uid**|Alessandro Greco ... <alessandrogreco[AT]autistici[DOT]org>|
-|**Fingerprint**|E40A FED4 9B34 34FF 1BB5  BB67 7C79 318C FE5C 3E3E|
+|**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7CFCE404A2168C85)|
+|**Uid**|alessandro.greco.1@protonmail.com|
+|**Fingerprint**|1d14cc108bb8ce142276f0057cfce404a2168c85|
 |**RSA Bits**|rsa4096|
-|**Date**|2022-10-27|
 
 ## My Flipper Shits
 
