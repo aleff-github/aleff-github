@@ -1,5 +1,8 @@
 ## Assistance
-If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com or using my public PGP Key as you can see following...
+
+If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com, please use my public PGP Key.
+
+The TikTok bot is not maintained so I no longer provide assistance and release of new versions.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/) ![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
 
