@@ -64,41 +64,8 @@ The TikTok bot is not maintained so I no longer provide assistance and release o
 |[O.MG Cable](https://shop.hak5.org/products/omg-cable) :chains: |[Tree Structure Of The Operating System](https://hak5.org/blogs/payloads/tree-structure-of-the-operating-system)|
 |[O.MG Cable](https://shop.hak5.org/products/omg-cable) :chains: |[Follow someone on Instagram](https://hak5.org/blogs/payloads/follow-someone-on-instagram)|
 
-## Storic Sponsors
-
-<a href="https://github.com/Abdulaziz033" target="_blank"><img src="https://avatars.githubusercontent.com/u/89788313?v=4" width="85" height="85"></a></br>
-<a href="https://github.com/Apocalyps2001" target="_blank"><img src="https://avatars.githubusercontent.com/u/82934936?v=4" width="65" height="65"></a></br>
-<a href="https://github.com/1thoughtmedia" target="_blank"><img src="https://avatars.githubusercontent.com/u/83051283?v=4" width="50" height="50"></a>
-<a href="https://github.com/Marivanna2000" target="_blank"><img src="https://avatars.githubusercontent.com/u/35609092?v=4" width="50" height="50"></a>
-<a href="https://github.com/el3men2manny" target="_blank"><img src="https://avatars.githubusercontent.com/u/90564832?v=4" width="50" height="50"></a>
-<a href="https://github.com/safaakdag" target="_blank"><img src="https://avatars.githubusercontent.com/u/22279986?v=4" width="50" height="50"></a></br>
-<a href="https://github.com/zerenity23" target="_blank"><img src="https://avatars.githubusercontent.com/u/76807999?v=4" width="35" height="35"></a>
-<a href="https://github.com/mateo787" target="_blank"><img src="https://avatars.githubusercontent.com/u/70239893?v=4" width="35" height="35"></a>
-<a href="https://github.com/Cosentino108" target="_blank"><img src="https://avatars.githubusercontent.com/u/81426885?v=4" width="35" height="35"></a>
-<a href="https://github.com/mindofcam" target="_blank"><img src="https://avatars.githubusercontent.com/u/82601251?v=4" width="35" height="35"></a>
-<a href="https://github.com/London200" target="_blank"><img src="https://avatars.githubusercontent.com/u/69599253?v=4" width="35" height="35"></a>
-<a href="https://github.com/commander0" target="_blank"><img src="https://avatars.githubusercontent.com/u/24908568?v=4" width="35" height="35"></a>
-<a href="https://github.com/KroSty88" target="_blank"><img src="https://avatars.githubusercontent.com/u/84800246?v=4" width="35" height="35"></a>
-<a href="https://github.com/ashraf218" target="_blank"><img src="https://avatars.githubusercontent.com/u/76716545?v=4" width="35" height="35"></a>
-<a href="https://github.com/Juma1091" target="_blank"><img src="https://avatars.githubusercontent.com/u/84912204?v=4" width="35" height="35"></a>
-<a href="https://github.com/LoganRichardson" target="_blank"><img src="https://avatars.githubusercontent.com/u/14199420?v=4" width="35" height="35"></a>
-<a href="https://github.com/galinickel" target="_blank"><img src="https://avatars.githubusercontent.com/u/59318616?v=4" width="35" height="35"></a>
-<a href="https://github.com/massacretv" target="_blank"><img src="https://avatars.githubusercontent.com/u/34430777?v=4" width="35" height="35"></a>
-<a href="https://github.com/anti0342" target="_blank"><img src="https://avatars.githubusercontent.com/u/82134515?v=4" width="35" height="35"></a>
-<a href="https://github.com/Rakoonit" target="_blank"><img src="https://avatars.githubusercontent.com/u/85995670?v=4" width="35" height="35"></a>
-<a href="https://github.com/7amad208" target="_blank"><img src="https://avatars.githubusercontent.com/u/57397736?v=4" width="35" height="35"></a>
-<a href="https://github.com/overy0u" target="_blank"><img src="https://avatars.githubusercontent.com/u/35597969?v=4" width="35" height="35"></a>
-<a href="https://github.com/belinho159" target="_blank"><img src="https://avatars.githubusercontent.com/u/55924689?v=4" width="35" height="35"></a>
-<a href="https://github.com/luxi124" target="_blank"><img src="https://avatars.githubusercontent.com/u/87795484?v=4" width="35" height="35"></a>
-<a href="https://github.com/WitchTokTheMusical" target="_blank"><img src="https://avatars.githubusercontent.com/u/88294847?v=4" width="35" height="35"></a>
-<a href="https://github.com/obunga808" target="_blank"><img src="https://avatars.githubusercontent.com/u/89166157?v=4" width="35" height="35"></a>
-<a href="https://github.com/MagicGloves2115" target="_blank"><img src="https://avatars.githubusercontent.com/u/89193607?v=4" width="35" height="35"></a>
-<a href="https://github.com/MagicGloves2115" target="_blank"><img src="https://avatars.githubusercontent.com/u/89193607?v=4" width="35" height="35"></a>
-<a href="https://github.com/ducnho2009" target="_blank"><img src="https://avatars.githubusercontent.com/u/89725933?v=4" width="35" height="35"></a>
-<a href="https://github.com/BJBGAMING" target="_blank"><img src="https://avatars.githubusercontent.com/u/90178894?v=4" width="35" height="35"></a>
-<a href="https://github.com/ariefbayuu" target="_blank"><img src="https://avatars.githubusercontent.com/u/88656010?v=4" width="35" height="35"></a>
-
 ## Donation
+
 |Method|Address|
 |--|--|
 |**GitHub**|https://github.com/sponsors/aleff-github|
