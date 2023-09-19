@@ -2,7 +2,7 @@
 
 If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com, please use my public PGP Key.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/) ![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/) ![glider](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
 
 |PGP|Data|
 |--|--|
