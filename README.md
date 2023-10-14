@@ -7,7 +7,7 @@ This account is slated for closure, I will no longer be releasing updates here.
 |Old|New|State|
 |--|--|--|
 |Tropea-Project|???|Pending...|
-|My-Flipper-Shits|???|Pending...|
+|My-Flipper-Shits|[New Link](https://gitlab.com/Aleff-GitLab/my-flipper-shits)|Done|
 |torctl-gui|???|Pending...|
 |Password Generator|???|Pending...|
 |PDF Parser|???|Pending...|
