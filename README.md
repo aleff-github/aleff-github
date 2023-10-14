@@ -1,8 +1,20 @@
-## Assistance
+# Aleff [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/)
+
+![glider](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
+
+Thank you for visiting my GitHub account.
+
+I am currently a graduate of the three-year degree course in computer science acquired at the University of Calabria UNICAL.
+
+I actively and financially support the following projects:
+
+- [Free Software Foundation](my.fsf.org/join?referrer=6202114)
+- [Electronic Frontier Foundation](https://www.eff.org/about)
+- [Tor-Project](https://www.torproject.org/about/history)
+- [Signal](signal.org)
+- [Autistici/Inventati](https://www.autistici.org)
 
 If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com, please use my public PGP Key.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/aleff-github/) ![glider](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
 
 |PGP|Data|
 |--|--|
@@ -10,10 +22,6 @@ If you need support or private assistance contact me at the email alessandro.gre
 |**Uid**|alessandro.greco.1\[AT]protonmail\[DOT]com|
 |**Fingerprint**|1d14cc108bb8ce142276f0057cfce404a2168c85|
 |**RSA Bits**|rsa4096|
-
-## My Flipper Shits
-
-<a href="https://github.com/aleff-github/my-flipper-shits/"><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif" width="150" onclick=""/></a>
 
 ---
 
