@@ -6,14 +6,14 @@ This account is slated for closure, I will no longer be releasing updates here.
 
 |Old|New|State|
 |--|--|--|
-|Tropea-Project|???|Pending...|
+|Tropea-Project|[New Link](https://gitlab.com/Aleff-GitLab/Tropea-Project)|Done|
 |My-Flipper-Shits|[New Link](https://gitlab.com/Aleff-GitLab/my-flipper-shits)|Done|
 |torctl-gui|???|Pending...|
 |Password Generator|???|Pending...|
-|PDF Parser|???|Pending...|
+|PDF Parser VirusTotal Based|[New Link](https://gitlab.com/Aleff-GitLab/PDF-Parser-VirusTotal-Based)|Done|
 |Backdoor Client Server|???|Pending...|
-|FreeCell DLV2|???|Pending...|
-|Sistemi Operativi e Reti|???|Pending...|
+|FreeCell DLV2|[New Link](https://gitlab.com/Aleff-GitLab/FreeCell-DLV2)|Done|
+|Sistemi Operativi e Reti|[New Link](https://gitlab.com/Aleff-GitLab/ProgettoSistemiOperativiEReti)|Done|
 |Android App|???|Pending...|
 |Snake|???|Pending...|
 |GloBux|---|It does not migrate|
