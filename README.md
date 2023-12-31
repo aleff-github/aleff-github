@@ -9,8 +9,11 @@ I actively and financially support the following projects:
 - [Free Software Foundation](my.fsf.org/join?referrer=6202114)
 - [Electronic Frontier Foundation](https://www.eff.org/about)
 - [Tor-Project](https://www.torproject.org/about/history)
+- - Visit my [Tor Relay](https://metrics.torproject.org/rs.html#details/B8C9DF8404FE175E37241774856907184A667ED2)
 - [Signal](signal.org)
 - [Autistici/Inventati](https://www.autistici.org)
+
+## Contact
 
 If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com, please use my public PGP Key.
 
@@ -23,7 +26,7 @@ If you need support or private assistance contact me at the email alessandro.gre
 
 ---
 
-<a href="https://hak5.org/search?type=article&q=Aleff"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/hak5-logo-2022_400x.png" width="150" onclick=""/></a>
+<a href="https://hak5.org/search?type=article&q=Aleff"><img src="https://cdn.shopify.com/s/files/1/0068/2142/files/hak5-logo-2022_400x.png" width="150"/></a>
 |Hardware|Payload|
 |--|--|
 |[USB Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky) :duck: |[Send Signal Messages](https://hak5.org/blogs/payloads/send-signal-messages)|
