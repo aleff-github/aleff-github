@@ -9,7 +9,7 @@ I actively and financially support the following projects:
 - [Free Software Foundation](https://my.fsf.org/join?referrer=6202114)
 - [Electronic Frontier Foundation](https://www.eff.org/about)
 - [Tor-Project](https://www.torproject.org/about/history)
-- - Visit my [Tor Relay](https://metrics.torproject.org/rs.html#details/B8C9DF8404FE175E37241774856907184A667ED2)
+- - Visit my [Tor Relay](https://metrics.torproject.org/rs.html#details/47B72187844C00AA5D524415E52E3BE81E63056B)
 - [Signal](https://signal.org)
 - [Autistici/Inventati](https://www.autistici.org)
 
