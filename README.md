@@ -15,15 +15,15 @@ I actively and financially support the following projects:
 - [Autistici/Inventati](https://www.autistici.org)
 
 
-## Contact
+## Contact :email: <a href="https://signal.me/#eu/D6PzX5dj5JDcTs3R6gVOXo_Kf3BWL72jDwKCPoOPlT6HPUyJl41BrrivbcwT33K0"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
 
-If you need support or private assistance contact me at the email alessandro.greco.1\[AT]protonmail\[DOT]com, please use my public PGP Key.
+If you need support or private assistance contact me via <a href="https://signal.me/#eu/D6PzX5dj5JDcTs3R6gVOXo_Kf3BWL72jDwKCPoOPlT6HPUyJl41BrrivbcwT33K0"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a> or via email, please use my public PGP Key.
 
 |PGP|Data|
 |--|--|
 |**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7CFCE404A2168C85)|
-|**Uid**|alessandro.greco.1\[AT]protonmail\[DOT]com|
-|**Fingerprint**|1d14cc108bb8ce142276f0057cfce404a2168c85|
+|**Uid**| <img src="https://aleff-gitlab.gitlab.io/images/email.PNG" />|
+|**Fingerprint**|1D14 CC10 8BB8 CE14 2276 F005 7CFC E404 A216 8C85|
 |**RSA Bits**|rsa4096|
 
 ---
