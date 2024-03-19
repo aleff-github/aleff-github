@@ -21,7 +21,7 @@ If you need support or private assistance contact me via <a href="https://signal
 
 |PGP|Data|
 |--|--|
-|**My full PGP key**|[pgp.mit.edu](https://pgp.mit.edu/pks/lookup?op=get&search=0x7CFCE404A2168C85)|
+|**My full PGP key**|[MIT PGP Public Key Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x7CFCE404A2168C85)|
 |**Uid**| <img src="https://aleff-gitlab.gitlab.io/images/email.PNG" />|
 |**Fingerprint**|1D14 CC10 8BB8 CE14 2276 F005 7CFC E404 A216 8C85|
 |**RSA Bits**|rsa4096|
