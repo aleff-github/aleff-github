@@ -100,3 +100,4 @@ If you need support or private assistance contact me via <a href="https://signal
 |WLAN WINDOWS PASSWORDS DISCORD EXFILTRATION|[USB Rubber Ducky 🦆](https://payloadhub.com/blogs/payloads/wlan-windows-passwords-discord-exfiltration)|
 |FOLLOW SOMEONE ON INSTAGRAM|[USB Rubber Ducky 🦆](https://payloadhub.com/blogs/payloads/follow-someone-on-instagram)|
 |ADD AN EXCEPITON TO AVAST ANTIVIRUS|[USB Rubber Ducky 🦆](https://payloadhub.com/blogs/payloads/add-an-excepiton-to-avast-antivirus)|
+|THIS SHELL DOESN'T WORK, SO SAD!|[USB Rubber Ducky 🦆](https://payloadhub.com/blogs/payloads/this-shell-doesnt-work-so-sad)|
