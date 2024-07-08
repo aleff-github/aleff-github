@@ -6,12 +6,12 @@ I am currently a graduate of the three-year degree course in computer science ac
 
 I actively and financially support the following projects:
 
-- [Free Software Foundation](my.fsf.org/join?referrer=6202114)
+- [Free Software Foundation](https://www.my.fsf.org/join?referrer=6202114)
 - [Electronic Frontier Foundation](https://www.eff.org/about)
 - [Tor-Project](https://www.torproject.org/about/history)
 - - Visit [my website](http://toraleffplxjhkuappcezyhngogi76q4a27trpc5x7xsclgawnoqhrid.onion) in Tor
 - - Visit my [Tor Relay](https://metrics.torproject.org/rs.html#details/47B72187844C00AA5D524415E52E3BE81E63056B)
-- [Signal](signal.org)
+- [Signal](https://www.signal.org)
 - [Autistici/Inventati](https://www.autistici.org)
 
 
