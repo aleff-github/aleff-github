@@ -10,7 +10,7 @@ If you need support or private assistance contact me via <a href="https://signal
 
 |PGP|Data|
 |--|--|
-|**My full PGP key**|[Open and copy-pasta](https://aleff-github.github.io/pgp-key)|
+|**My full PGP key**|[Open and copy-pasta](https://raw.githubusercontent.com/aleff-github/Deposito/refs/heads/main/docs/PGP_KEY.txt)|
 |**Uid**| <img src="https://aleff-gitlab.gitlab.io/images/email.PNG" />|
 |**Fingerprint**|CEB5 FEB7 20E7 52BD 4595 06FA D8B2 A984 C0F9 BF7C|
 |**RSA Bits**|rsa4096|
