@@ -2,7 +2,16 @@
 
 ![glider](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
 
-I am currently a graduate of the three-year degree course in computer science acquired at the University of Calabria UNICAL.
+Thank you for visiting github website.
+
+I'm Alessandro Greco aka <b>Aleff</b> and I am a bachelor's degree graduate in Computer Science in UNICAL.
+
+I am passionate about Hacking in the true sense of the word. [*Read more...*](https://stallman.org/articles/on-hacking.html)
+
+I currently work as a Technical Inspector in the Forensic Laboratory of the Operational Center for Cybersecurity (C.O.S.C. Centro Operativo Sicurezza Cibernetica) of Calabria.
+
+Have a nice time on my github,
+Aleff :)
 
 ## Contact :email: <a href="https://signal.me/#eu/thW8vBquclZxFWgaCe9gXIoFhSKg4a345y_Q_MY9kOj9547ONH9NQa_Xfn2cro2q"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
 
