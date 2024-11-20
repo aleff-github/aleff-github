@@ -13,9 +13,9 @@ I currently work as a Technical Inspector in the Forensic Laboratory of the Oper
 Have a nice time on my github,
 Aleff :)
 
-## Contact :email: <a href="https://signal.me/#eu/thW8vBquclZxFWgaCe9gXIoFhSKg4a345y_Q_MY9kOj9547ONH9NQa_Xfn2cro2q"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
+## Contact :email: <a href="https://signal.me/#eu/_mE9RMuqnNtZlutQBAcLgoXN621-aYaso9UXnBEiP8H14qb_H1dOs4G0fcVJbfDS"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
 
-If you need support or private assistance contact me via <a href="https://signal.me/#eu/thW8vBquclZxFWgaCe9gXIoFhSKg4a345y_Q_MY9kOj9547ONH9NQa_Xfn2cro2q"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a> or via email, please use my public PGP Key.
+If you need support or private assistance contact me via <a href="https://signal.me/#eu/_mE9RMuqnNtZlutQBAcLgoXN621-aYaso9UXnBEiP8H14qb_H1dOs4G0fcVJbfDS"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a> or via email, please use my public PGP Key.
 
 |PGP|Data|
 |--|--|
