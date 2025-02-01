@@ -4,14 +4,14 @@
 
 Thank you for visiting github website.
 
-I'm Alessandro Greco aka <b>Aleff</b> and I am a bachelor's degree graduate in Computer Science in UNICAL.
-
 I am passionate about Hacking in the true sense of the word. [*Read more...*](https://stallman.org/articles/on-hacking.html)
 
-I currently work as a Technical Inspector in the Forensic Laboratory of the Operational Center for Cybersecurity (C.O.S.C. Centro Operativo Sicurezza Cibernetica) of Calabria.
+_A completely insecure system is rare.  
+A secure system is relatively easy to find and is often free.  
+A highly secure system is less common and very expensive.  
+An even more secure, almost foolproof system is free and a bit more tedious to use._
 
-Have a nice time on my github,
-Aleff :)
+Have a nice time on my github :)
 
 ## Contact :email: <a href="https://signal.me/#eu/_mE9RMuqnNtZlutQBAcLgoXN621-aYaso9UXnBEiP8H14qb_H1dOs4G0fcVJbfDS"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
 
