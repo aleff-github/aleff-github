@@ -2,7 +2,7 @@
 
 ![glider](https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif)
 
-Thank you for visiting github website.
+Thank you for visiting my github profile.
 
 I am passionate about Hacking in the true sense of the word. [*Read more...*](https://stallman.org/articles/on-hacking.html)
 
