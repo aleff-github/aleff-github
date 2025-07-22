@@ -1,6 +1,6 @@
 ## Contact
 
-- <a href="https://smp9.simplex.im/a#Um_lDRFIqhXLQ2ineGFdEZ2670hWE2_wcnK89Cqwf-8"><img src="https://simplex.chat/img/new/logo-light.png" width="75"/></a>
+- <a href="https://smp9.simplex.im/a#Um_lDRFIqhXLQ2ineGFdEZ2670hWE2_wcnK89Cqwf-8"><img src="https://simplex.chat/img/new/logo-light.png" width="75"/></a>: <i>https://smp9.simplex.im/a#Um_lDRFIqhXLQ2ineGFdEZ2670hWE2_wcnK89Cqwf-8</i>
 
 |PGP|Data|
 |--|--|
