@@ -1,6 +1,6 @@
 ## Contact
 
-- <a href="https://signal.me/#eu/_mE9RMuqnNtZlutQBAcLgoXN621-aYaso9UXnBEiP8H14qb_H1dOs4G0fcVJbfDS"><img src="https://signal.org/assets/images/header/logo.png" width="75"/></a>
+- <a href="https://smp9.simplex.im/a#Um_lDRFIqhXLQ2ineGFdEZ2670hWE2_wcnK89Cqwf-8"><img src="https://simplex.chat/img/new/logo-light.png" width="75"/></a>
 
 |PGP|Data|
 |--|--|
