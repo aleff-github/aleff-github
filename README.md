@@ -1,3 +1,5 @@
+<a href="http://u.fsf.org/16f"><img src="https://static.fsf.org/nosvn/images/badges/i-support-fs_red-bg.png" alt="I support free software"></a>
+
 ## Contact
 
 - <a href="https://smp14.simplex.im/a#cmNHN9_xIfc0O3FSFSpXAT7DvnOcLbng0Gndyh8prrk"><img src="https://simplex.chat/img/new/logo-light.png" width="75"/></a>: <i>https://smp14.simplex.im/a#cmNHN9_xIfc0O3FSFSpXAT7DvnOcLbng0Gndyh8prrk</i>
